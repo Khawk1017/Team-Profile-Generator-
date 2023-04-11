@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator-",
+  "version": "1.0.0",
+  "description": "Team_Profile",
+  "main": "app.js",
+  "scripts": {
+    "test": " jest __tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khawk1017/Team-Profile-Generator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khawk1017/Team-Profile-Generator-/issues"
+  },
+  "homepage": "https://github.com/Khawk1017/Team-Profile-Generator-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
