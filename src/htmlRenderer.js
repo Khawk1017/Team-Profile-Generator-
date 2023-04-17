@@ -18,7 +18,7 @@ function  myTeam(teamArr){
         return htmlTeam.join("");
     }
 }
-myTeam(teamArr);
+// myTeam(teamArr)()
 // empty array to take in all the html strings with data
 const htmlTeam = [];
 //  myManager function is inserting the correct data in to the html string and pushing it in to an array
